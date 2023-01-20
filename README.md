@@ -1,2 +1,10 @@
-# ML-23-TEA
-Repository for machine learning code
+#My ML Notes
+
+## Test heading :^)
+
+Hello there
+
+*Howdy
+*Friend
+*Partner
+
