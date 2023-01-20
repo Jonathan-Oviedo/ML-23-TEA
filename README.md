@@ -4,7 +4,4 @@
 
 Hello there
 
-*Howdy
-*Friend
-*Partner
 
